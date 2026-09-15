@@ -12,3 +12,4 @@ C:\Users\jaime\OneDrive\Desktop\CodeStack-Combine\Mini challenge #1\obj\Debug\ne
 C:\Users\jaime\OneDrive\Desktop\CodeStack-Combine\Mini challenge #1\obj\Debug\net10.0\Mini challenge #1.pdb
 C:\Users\jaime\OneDrive\Desktop\CodeStack-Combine\Mini challenge #1\obj\Debug\net10.0\Mini challenge #1.genruntimeconfig.cache
 C:\Users\jaime\OneDrive\Desktop\CodeStack-Combine\Mini challenge #1\obj\Debug\net10.0\ref\Mini challenge #1.dll
+C:\Users\jaime\OneDrive\Desktop\CodeStack-Combine\Mini challenge #1\obj\Debug\net10.0\Mini challenge #1.sourcelink.json

@@ -1,0 +1,16 @@
+START
+	|
+	v
+Display: "What is your name?"
+	|
+	v
+Read and store user's name
+	|
+	v
+Display: "Hello, [user's name]!"
+	|
+	v
+Display: "Welcome to Hamsterville!"
+	|
+	v
+END
